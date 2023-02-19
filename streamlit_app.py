@@ -1,11 +1,11 @@
 import streamlit
 
-streamlit.title("Hi guys my name is Sava")
+streamlit.title('My Moms New Healthy Diner') 
 
-streamlit.header("Here are some things about me:")
 
-streamlit.text("I am a Computer Engineering student")
-streamlit.text("I am Serbian")
-streamlit.text("I am an incoming Software and Data Analyst Intern for Sanofi")
-streamlit.text("I love coding and data!")
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
   
